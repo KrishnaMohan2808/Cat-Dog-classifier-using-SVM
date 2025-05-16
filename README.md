@@ -20,7 +20,7 @@ Insert sample prediction images here
 
 ## Sample outputs
 **Confusion Matrix:**
-![Image Alt](url)
+![Image Alt](https://github.com/KrishnaMohan2808/Cat-Dog-classifier-using-SVM/blob/de87e5a53df6c66f7fed7b798f8578ec2bc29a80/Screenshot%202025-05-16%20232310.png)
 
 
 ## Requirements
