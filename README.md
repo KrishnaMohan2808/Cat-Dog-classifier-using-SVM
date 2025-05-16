@@ -23,7 +23,7 @@ Insert sample prediction images here
 ![Image Alt](https://github.com/KrishnaMohan2808/Cat-Dog-classifier-using-SVM/blob/de87e5a53df6c66f7fed7b798f8578ec2bc29a80/Screenshot%202025-05-16%20232310.png)
 
 ### Sample Predictions:
-![Image Alt](
+![Image Alt](https://github.com/KrishnaMohan2808/Cat-Dog-classifier-using-SVM/blob/6e1ce3f77cd97ced4d88ed6c453239a47a25c73d/Screenshot%202025-05-16%20233215.png)
 
 ## Requirements
 Python 3.x
