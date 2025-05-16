@@ -20,6 +20,7 @@ Insert sample prediction images here
 
 ## Sample outputs
 **Confusion Matrix:**
+![Image Alt](url)
 
 
 ## Requirements
